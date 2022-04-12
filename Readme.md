@@ -11,3 +11,5 @@ Curso gratuito da Udemy!
 Gostou do curso?? Quer mais?
 
 Aprendendo como enviar mudancas...
+
+usando stash
